@@ -75,7 +75,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&width=435&lines=Curious+Maker+from+Planet+Code!;Building+Smart+Projects+with+IoT;Learning+Hardware+%26+Software+Daily" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" height="200" />
 </p>
 
 ---
