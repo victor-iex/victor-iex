@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm John Victor </h1>
-<h3 align="center">💡 Newbie | 🚀 Tinkerer | 🔌 IoT Explorer | 👨‍💻 Learning by Building</h3>
+<h3 align="center">💡Beginner dev | 📟 Embedded systems  | 🔌 IoT Explorer | 🛠️ build cool things </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFFF&center=true&width=435&lines=Curious+Maker+from+Planet+Code!;Building+Smart+Projects+with+IoT;Learning+Hardware+%26+Software+Daily" />
