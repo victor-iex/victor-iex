@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋, I'm John Victor </h1>
 <h3 align="center">💡 Newbie | 🚀 Tinkerer | 🔌 IoT Explorer | 👨‍💻 Learning by Building</h3>
 
 <p align="center">
