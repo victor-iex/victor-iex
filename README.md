@@ -75,10 +75,8 @@
 ---
 
 <p align="center">
-  <!-- Developer Minimalistic Graphic -->
-  <img src="https://via.placeholder.com/600x200/00FFFF/000000?text=Code+Development" height="200" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&width=435&lines=Curious+Maker+from+Planet+Code!;Building+Smart+Projects+with+IoT;Learning+Hardware+%26+Software+Daily" />
 </p>
-
 
 ---
 
