@@ -1,8 +1,5 @@
 
 
-📫 Reach out: johnvictor.k.j@gmail.com
-
-
 
 <h1 align="center">Hey there 👋, I'm [Your Name]</h1>
 <h3 align="center">💡 Newbie exploring the world of coding & IoT</h3>
