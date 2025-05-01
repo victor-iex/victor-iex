@@ -74,9 +74,12 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" height="200" />
+  <!-- Cyberpunk Design Image -->
+  <img src="https://via.placeholder.com/600x200/00FFFF/000000?text=Cyberpunk+Design" height="200" />
 </p>
+
 
 ---
 
