@@ -1,16 +1,15 @@
-## Hi there 👋
+💻 Developer | ⚙️ Hardware & Software Integrator | 🌍 IoT Enthusiast
 
-<!--
-**victor-iex/victor-iex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about building innovative, efficient, and scalable tech solutions. I work across the full stack, combining hardware-level engineering with intelligent software design to create real-world, connected systems.
 
-Here are some ideas to get you started:
+🔧 Skills & Focus Areas:
+- Programming: C/C++, Python, JavaScript, and more  
+- IoT Systems: Arduino, ESP32, Raspberry Pi  
+- Full-Stack Development: HTML, CSS, JS, Node.js  
+- Embedded Systems & Automation Projects  
+- Networking, System Design, and General IT  
+- Tech Prototyping & Real-Time Hardware Interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Continuously learning and experimenting to solve problems with smart technology.
+
+📫 Reach out: johnvictor.k.j@gmail.com
