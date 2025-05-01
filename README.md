@@ -2,7 +2,7 @@
 <h3 align="center">💡 Newbie | 🚀 Tinkerer | 🔌 IoT Explorer | 👨‍💻 Learning by Building</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&width=435&lines=Curious+Maker+from+Planet+Code!;Building+Smart+Projects+with+IoT;Learning+Hardware+%26+Software+Daily" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=#00FFFF&center=true&width=435&lines=Curious+Maker+from+Planet+Code!;Building+Smart+Projects+with+IoT;Learning+Hardware+%26+Software+Daily" />
 </p>
 
 ---
