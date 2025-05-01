@@ -15,7 +15,7 @@
 🔧 Skills & Focus Areas:
 - Programming: C/C++, Python, JavaScript, and more
 - Full-Stack Development: HTML, CSS, JS, Node.js 
-- IoT Systems: Arduino, ESP32, Raspberry Pi   
+- IoT Systems: Arduino, Stm, Raspberry Pi   
 - Embedded Systems & Automation Projects  
 - Networking, System Design, and General IT  
 - Tech Prototyping & Real-Time Hardware Interfaces
