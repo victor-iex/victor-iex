@@ -76,9 +76,9 @@
 
 
 <p align="center">
-  <!-- Cyberpunk Design Image -->
-  <img src="https://via.placeholder.com/600x200/00FFFF/000000?text=Cyberpunk+Design" height="200" />
+  <img src="https://via.placeholder.com/600x200/00FFFF/000000?text=Code+Development" height="200" />
 </p>
+
 
 
 ---
